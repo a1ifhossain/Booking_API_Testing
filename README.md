@@ -36,19 +36,6 @@ The goal is to ensure the reliability, correctness, and performance of the booki
 - [Node.js](https://nodejs.org/)
 - [Newman CLI](https://github.com/postmanlabs/newman)
 
-Install Newman globally:
-```bash
-npm install -g newman
-Running Tests
-Use the following command to run the test suite and generate an HTML report:
-
-bash
-Copy
-Edit
-newman run Booking_Collection.postman_collection.json \
-  -e Booking_Environment.postman_environment.json \
-  -r cli,html \
-  --reporter-html-export newman-report.html
 📊 Test Report
 An interactive HTML report is generated after test execution: newman-report.html.
 
