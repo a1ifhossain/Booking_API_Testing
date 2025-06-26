@@ -1,7 +1,3 @@
-Here's a polished and professional `README.md` for your **Booking API Testing Project**, perfectly formatted for uploading to GitHub:
-
----
-
 # 🧪 Booking API Testing Project
 
 A comprehensive API testing suite for a hotel booking system, developed using **Postman** and executed via **Newman**. This project automates validation of RESTful endpoints and generates detailed HTML reports for efficient debugging and quality assurance.
