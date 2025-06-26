@@ -81,8 +81,8 @@ The generated `newman-report.html` includes:
 
 ## 👤 Author
 
-**Md Alif Hossain Parvez**
-🧪 SQA Engineer
-📧 Email: [alifhossain5321@gmail.com](mailto:alifhossain5321@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/md-alif-hossain-parvez-03727b340](https://linkedin.com/in/md-alif-hossain-parvez-03727b340)
+Md Alif Hossain Parvez  
+SQA Engineer  
+Email: alifhossain5321@gmail.com  
+LinkedIn: https://www.linkedin.com/in/md-alif-hossain-parvez-03727b340/
 
