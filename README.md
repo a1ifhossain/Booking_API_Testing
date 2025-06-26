@@ -36,6 +36,8 @@ The goal is to ensure the reliability, correctness, and performance of the booki
 - [Node.js](https://nodejs.org/)
 - [Newman CLI](https://github.com/postmanlabs/newman)
 
+---
+
 📊 Test Report
 After execution, an interactive HTML report is generated as newman-report.html.
 
@@ -52,12 +54,16 @@ The report includes:
 
 Simply open it in your browser to view results.
 
+---
+
 🛠️ Tools & Technologies
 Tool	Description
 Postman	API development and manual testing
 Newman	CLI runner for Postman collections
 HTML	Visual report generation
 REST APIs	Booking API hosted on Heroku
+
+---
 
 👤 Author
 Md Alif Hossain Parvez
