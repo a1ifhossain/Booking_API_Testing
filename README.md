@@ -38,7 +38,7 @@ The goal is to ensure the reliability, correctness, and performance of the booki
 
 ---
 
-📊 Test Report
+##📊 Test Report
 After execution, an interactive HTML report is generated as newman-report.html.
 
 The report includes:
@@ -56,7 +56,7 @@ Simply open it in your browser to view results.
 
 ---
 
-🛠️ Tools & Technologies
+##🛠️ Tools & Technologies
 Tool	Description
 Postman	API development and manual testing
 Newman	CLI runner for Postman collections
@@ -65,7 +65,7 @@ REST APIs	Booking API hosted on Heroku
 
 ---
 
-👤 Author
+##👤 Author
 Md Alif Hossain Parvez
 🧪 SQA Engineer
 📧 Email: alifhossain5321@gmail.com
