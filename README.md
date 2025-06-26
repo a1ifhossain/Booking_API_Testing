@@ -37,29 +37,30 @@ The goal is to ensure the reliability, correctness, and performance of the booki
 - [Newman CLI](https://github.com/postmanlabs/newman)
 
 📊 Test Report
-An interactive HTML report is generated after test execution: newman-report.html.
+After execution, an interactive HTML report is generated as newman-report.html.
 
-It includes:
+The report includes:
+🔄 Total iterations and requests
 
-Total iterations and requests
+✅ Assertions passed / ❌ failed
 
-Assertions passed/failed
+⏱️ Test script performance
 
-Test script performance
+📨 Request & response bodies
 
-Request/response bodies
+🧾 Headers and timing breakdowns
 
-Headers and timing breakdowns
+Simply open it in your browser to view results.
 
 🛠️ Tools & Technologies
 Tool	Description
 Postman	API development and manual testing
 Newman	CLI runner for Postman collections
-HTML	Visual reporting
-RESTful APIs	Booking API hosted on Heroku
+HTML	Visual report generation
+REST APIs	Booking API hosted on Heroku
 
 👤 Author
 Md Alif Hossain Parvez
-SQA Engineer
-Email: alifhossain5321@gmail.com
-LinkedIn: https://www.linkedin.com/in/md-alif-hossain-parvez-03727b340/
+🧪 SQA Engineer
+📧 Email: alifhossain5321@gmail.com
+🔗 LinkedIn: linkedin.com/in/md-alif-hossain-parvez-03727b340
