@@ -61,8 +61,11 @@ Simply open it in your browser to view results.
 
 Tool	Description
 Postman	API development and manual testing
+
 Newman	CLI runner for Postman collections
+
 HTML	Visual report generation
+
 REST APIs	Booking API hosted on Heroku
 
 ---
@@ -70,6 +73,9 @@ REST APIs	Booking API hosted on Heroku
 ## 👤 Author
 
 Md Alif Hossain Parvez
+
 🧪 SQA Engineer
+
 📧 Email: alifhossain5321@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/md-alif-hossain-parvez-03727b340
